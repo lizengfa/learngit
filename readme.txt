@@ -12,3 +12,5 @@ next unfinished job.
 
 now is 11:28
 now is 11:42
+now is 11:54
+fix bug git is finished!
