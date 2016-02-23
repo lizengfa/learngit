@@ -15,3 +15,4 @@ now is 11:42
 now is 11:54
 fix bug git is finished!
 This is a update by lzf2
+This is a update by lzf1
