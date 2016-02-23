@@ -14,3 +14,8 @@ now is 11:28
 now is 11:42
 now is 11:54
 fix bug git is finished!
+This is a update by lzf2
+This is a update by lzf1
+This is a update by lzf8
+This is a update 2 by lzf1
+
